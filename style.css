@@ -1,0 +1,46 @@
+.heading
+{
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+width: 100%;
+margin: 0px;
+color:darkblue;
+}
+body
+{
+background-size:cover ;
+background-position-y:150px;
+
+}
+.divspeed
+{
+float: left;
+}
+.divvolume
+{
+float: right;
+}
+.divspeedimg,.divvolumeimg
+{
+width: 150px;
+border-radius:100px;
+
+}
+#speed,#volume
+{
+font: size 50px;
+margin: 15px;
+}
+.n
+{
+width: 130px;
+font-size: 25px;
+}
+
+
+canvas
+{
+border: 5px dashed cadetblue;
+border-radius: 20px;
+
+}
